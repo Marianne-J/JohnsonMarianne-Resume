@@ -29,14 +29,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Projects
 
 `January 2021 - April 2021`
-
 #### Dry Oar Boating
 
 - Designed a website for a fake river rafting company.
 - Used Html and CSS to build and design a website.
 
 `November 2021 - December 2021`
-
 #### Frogger
 
 - Worked with a team to design a simple version of the Frogger arcade game.
