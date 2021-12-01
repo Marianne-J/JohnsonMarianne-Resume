@@ -1,5 +1,6 @@
 
 ### Author
+Marianne Johnson (joh20041@byui.edu)
 
 Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
