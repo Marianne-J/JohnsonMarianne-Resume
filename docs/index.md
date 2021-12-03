@@ -3,7 +3,7 @@ layout: cv
 title: Marianne Johnson's Resume
 ---
 # Marianne Johnson
-Computer Science major at Brigham Young Univerity - Idaho
+Computer Science Major at Brigham Young Univerity - Idaho
 
 <div id="webaddress">
 <a href="mj_reader@hotmail.com">mj_reader@hotmail.com</a>
@@ -14,7 +14,7 @@ Computer Science major at Brigham Young Univerity - Idaho
 
 ## Education
 
-`2016-2020`
+`2016 - 2020`
 __Queen Creek High School__, Queen Creek, AZ
 
 - High School Diploma
@@ -32,13 +32,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
 #### Dry Oar Boating
 
 - Designed a website for a fake river rafting company.
-- Used Html and CSS to build and design a website.
+- Used HTML and CSS to build and design a website.
 
 `November 2021 - December 2021`
 #### Frogger
 
 - Worked with a team to design a simple version of the Frogger arcade game.
-- Used python to program the Frogger design with a team.
+- Used Python to program the Frogger design with a team.
 - Used GitHub to host program code.
 - Used Git to make changes to source code.
 
