@@ -14,25 +14,19 @@ Computer Science Major at Brigham Young Univerity - Idaho
 
 ## Education
 
-`2016 - 2020`
-__Queen Creek High School__, Queen Creek, AZ
-
-- High School Diploma
-
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - BS Computer Science
 
+`2016 - 2020`
+__Queen Creek High School__, Queen Creek, AZ
+
+- High School Diploma
+
 ## Related Experience
 
 ### Projects
-
-`January 2021 - April 2021`
-#### Dry Oar Boating
-
-- Designed a website for a fake river rafting company.
-- Used HTML and CSS to build and design a website.
 
 `November 2021 - December 2021`
 #### Frogger
@@ -41,6 +35,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Used Python to program the Frogger design with a team.
 - Used GitHub to host program code.
 - Used Git to make changes to source code.
+
+`January 2021 - April 2021`
+#### Dry Oar Boating
+
+- Designed a website for a fake river rafting company.
+- Used HTML and CSS to build and design a website.
 
 ## Service and Work History
 
